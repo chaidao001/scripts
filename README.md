@@ -1,3 +1,3 @@
 # Scripts
 
-Personal scripts used for varies purposes
+Personal scripts used for varies purposes.
